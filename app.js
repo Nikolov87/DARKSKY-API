@@ -9,6 +9,6 @@ window.addEventListener('load', ()=> {
 
         const api = `https://api.darksky.net/forecast/fd9d9c6418c23d94745b836767721ad1/${lat},${long}`;
     });
-    //18:00min on the video.
+    //18:00min on the video...
   }
 });
